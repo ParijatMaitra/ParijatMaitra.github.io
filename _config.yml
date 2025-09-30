@@ -358,3 +358,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-CYY5ZMFGVN"   # ← your Measurement ID
+    anonymize_ip: true
