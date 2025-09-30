@@ -39,22 +39,9 @@ author:
   orcid     : "https://orcid.org/0009-0003-9301-1576"
   googlescholar: "https://scholar.google.com/citations?user=0giGbfcAAAAJ&hl"
   github    : "ParijatMaitra"
-  linkedin  : ""         # add if you have one
-  twitter   : ""         # add if you want to show Twitter/X
+ # linkedin  : ""         # add if you have one
+# twitter   : ""         # add if you want to show Twitter/X
 
-# =========================
-# Navigation
-# =========================
-# Edit the menu links shown at the top of your site
-navigation:
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /files/Parijat_Maitra_CV.pdf
 
 # =========================
 # Analytics (Google GA4)
