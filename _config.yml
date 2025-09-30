@@ -153,12 +153,10 @@ social:
 
 
 analytics:
-  provider: "google-analytics-4"
+  provider: "google-gtag"
   google:
     tracking_id: "G-JYQZ0TK21L"
     anonymize_ip: true
-
-
 
 # Reading Files
 include:
