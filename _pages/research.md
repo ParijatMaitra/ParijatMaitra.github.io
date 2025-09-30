@@ -12,9 +12,9 @@ author_profile: true
 **Status:** **Working paper forthcoming**
 
 **Abstract.**  
-
+<div style="text-align: justify;">
 We examine the impact of early elective birth timing on children’s health and educational outcomes, focusing on cognitive development as measured by primary school grades. Our analysis exploits a natural experiment in Spain: the abrupt termination of a generous child benefit at the end of 2010, which led to a sharp increase in elective deliveries during the final week of December. Children born during this spike had slightly shorter gestation periods and lower birth weights (though still within the normal range). We find that these children experienced higher rates of respiratory hospitalizations in infancy and significantly lower academic performance at age seven. These results provide causal evidence on the medium-term costs of early elective deliveries, and underscore the link between neonatal health and human capital formation.
-</details>
+</div>
 
 ---
 
@@ -36,4 +36,4 @@ We examine the impact of early elective birth timing on children’s health and 
 ## Publications prior to graduate school
 
 - Parijat Maitra (2022). *Inventories and Business Cycles: The Story of the Last Three Decades.*  
-  *Economics Bulletin*, 42(2): 553-565. [AccessEcon link](https://ideas.repec.org/a/ebl/ecbull/eb-22-00265.html)
+  *Economics Bulletin*, 42(2): 553-565.
