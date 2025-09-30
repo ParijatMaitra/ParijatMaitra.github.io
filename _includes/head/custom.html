@@ -14,13 +14,13 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- GA4 manual tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JYQZ0TK21L"></script>
 <script>
-  // Make sure dark is applied from first paint, even if a prior preference was saved
-  try {
-    localStorage.setItem('mm-color-scheme', 'dark');   // used by Minimal Mistakes/AcademicPages
-    localStorage.setItem('ap-theme', 'dark');          // harmless if unused
-  } catch (e) {}
-  document.documentElement.classList.add('theme--dark'); // harmless if class isn't used
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JYQZ0TK21L', { 'anonymize_ip': true });
 </script>
 
 
