@@ -1,25 +1,18 @@
-# =========================
-# Basic Site Settings
-# =========================
+# Basic Settings
 title: "Parijat Maitra"
-title_separator: "-"
 name: "Parijat Maitra"
 description: "PhD student in Economics at Stockholm University, working at the intersection of Labour and Development Economics."
 url: "https://parijatmaitra.github.io"
 baseurl: ""
 repository: "ParijatMaitra/ParijatMaitra.github.io"
 
-# =========================
-# Theme (Minimal Mistakes)
-# =========================
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"   # (change to "dark" later if you want)
+# Theme
+theme: jekyll-theme-minimal-mistakes
+remote_theme: nil
+minimal_mistakes_skin: "default"
 
-# =========================
 # Plugins
-# =========================
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
@@ -27,45 +20,34 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# =========================
-# Author Profile (left sidebar)
-# =========================
+# Author Profile
 author:
-  avatar    : "me.jpg"   # put your photo at: images/me.jpg
-  name      : "Parijat Maitra"
-  bio       : "PhD student in Economics"
-  location  : "Stockholm, Sweden"
-  email     : "parijat.maitra@su.se"
+  avatar : "me.jpg"
+  name   : "Parijat Maitra"
+  bio    : "PhD student in Economics"
+  location : "Stockholm"
+  email  : "parijat.maitra@su.se"
+  github : "ParijatMaitra"
   googlescholar: "https://scholar.google.com/citations?user=0giGbfcAAAAJ&hl"
-  orcid     : "https://orcid.org/0009-0003-9301-1576"
-  github    : "ParijatMaitra"
+  orcid: "https://orcid.org/0009-0003-9301-1576"
 
-# =========================
-# Output & Permalinks
-# =========================
-permalink: /:categories/:title/
-timezone: "Europe/Stockholm"
+# Navigation (menu top right)
+navigation:
+  - title: "Research"
+    url: /research/
 
-# =========================
-# Collections (AcademicPages-style)
-# =========================
+# Collections
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
 
-# =========================
-# Defaults (page layouts)
-# =========================
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -73,53 +55,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      comments: false
-      share: true
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
 
-# =========================
-# Markdown & Sass
-# =========================
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# =========================
-# Analytics (disabled)
-# =========================
-analytics:
-  provider: "false"
+# Permalinks
+permalink: /:categories/:title/
