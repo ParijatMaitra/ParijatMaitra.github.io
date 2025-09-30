@@ -154,9 +154,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
+    tracking_id: "G-CYY5ZMFGVN"   # ← your Measurement ID
+    anonymize_ip: true
 
 
 # Reading Files
@@ -359,8 +360,4 @@ compress_html:
   ignore:
     envs: development
     
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-CYY5ZMFGVN"   # ← your Measurement ID
-    anonymize_ip: true
+
