@@ -6,17 +6,14 @@
 
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    // "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    // "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",  // ← disable light
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",     // ← keep dark
 
     "include/mixins",
     "vendor/susy/susy",
@@ -44,4 +41,6 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+// Strong hint to browsers for dark UI widgets (inputs, scrollbars, etc.)
 :root { color-scheme: dark; }
