@@ -9,13 +9,6 @@
 
 # Main site navigation
 main:
-  - title: "Home"
-    url: /
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /files/Parijat_Maitra_CV.pdf
+
