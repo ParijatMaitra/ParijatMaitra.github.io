@@ -5,15 +5,15 @@ title: "Parijat Maitra"
 title_separator: "-"
 name: "Parijat Maitra"
 description: "PhD student in Economics at Stockholm University, working at the intersection of Labour and Development Economics."
-url: "https://parijatmaitra.github.io"   # Your site URL
-baseurl: ""                              # Leave empty for a user site
+url: "https://parijatmaitra.github.io"
+baseurl: ""
 repository: "ParijatMaitra/ParijatMaitra.github.io"
 
 # =========================
-# Theme Settings
+# Theme (Minimal Mistakes)
 # =========================
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "default"   # (change to "dark" later if you want)
 
 # =========================
 # Plugins
@@ -28,29 +28,17 @@ plugins:
   - jemoji
 
 # =========================
-# Author Profile
+# Author Profile (left sidebar)
 # =========================
 author:
-  avatar    : "me.jpg"   # put your image in /images/me.jpg
+  avatar    : "me.jpg"   # put your photo at: images/me.jpg
   name      : "Parijat Maitra"
   bio       : "PhD student in Economics"
   location  : "Stockholm, Sweden"
   email     : "parijat.maitra@su.se"
-  orcid     : "https://orcid.org/0009-0003-9301-1576"
   googlescholar: "https://scholar.google.com/citations?user=0giGbfcAAAAJ&hl"
+  orcid     : "https://orcid.org/0009-0003-9301-1576"
   github    : "ParijatMaitra"
- # linkedin  : ""         # add if you have one
-# twitter   : ""         # add if you want to show Twitter/X
-
-
-# =========================
-# Analytics (Google GA4)
-# =========================
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-JYQZ0TK21L"
-    anonymize_ip: true
 
 # =========================
 # Output & Permalinks
@@ -59,7 +47,7 @@ permalink: /:categories/:title/
 timezone: "Europe/Stockholm"
 
 # =========================
-# Collections
+# Collections (AcademicPages-style)
 # =========================
 collections:
   teaching:
@@ -93,7 +81,6 @@ defaults:
       author_profile: true
       comments: false
       share: true
-      related: true
   - scope:
       path: ""
       type: teaching
@@ -120,7 +107,7 @@ defaults:
       author_profile: true
 
 # =========================
-# Markdown & Sass Settings
+# Markdown & Sass
 # =========================
 markdown: kramdown
 highlighter: rouge
@@ -130,3 +117,9 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
+
+# =========================
+# Analytics (disabled)
+# =========================
+analytics:
+  provider: "false"
