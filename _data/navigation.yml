@@ -7,27 +7,15 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# Main site navigation
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
-
-   # - title: "Talks"
-   # url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #  url: /portfolio/
-        
- # - title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #  - title: "CV"
-   #   url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #  url: /markdown/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /files/Parijat_Maitra_CV.pdf
