@@ -14,4 +14,14 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<script>
+  // Make sure dark is applied from first paint, even if a prior preference was saved
+  try {
+    localStorage.setItem('mm-color-scheme', 'dark');   // used by Minimal Mistakes/AcademicPages
+    localStorage.setItem('ap-theme', 'dark');          // harmless if unused
+  } catch (e) {}
+  document.documentElement.classList.add('theme--dark'); // harmless if class isn't used
+</script>
+
+
 <!-- end custom head snippets -->
