@@ -1,6 +1,9 @@
 ---
 ---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 /*
  * This file controls what is imported from /_sass
  *
