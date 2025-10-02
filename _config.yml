@@ -9,8 +9,7 @@
 url: "https://parijatmaitra.github.io"
 baseurl: ""            # important for user sites
 
-plugins:
-  - jekyll-sitemap     # auto-creates /sitemap.xml
+
 
 
 
@@ -318,7 +317,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+  
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
