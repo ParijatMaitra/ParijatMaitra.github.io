@@ -6,6 +6,15 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+url: "https://parijatmaitra.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_site_verification: "6goKPQ4ohFxSj9pT64552BAljmxCMnJrpkkKgMDWXeQ"
+
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
