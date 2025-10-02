@@ -7,12 +7,11 @@
 # server process.
 
 url: "https://parijatmaitra.github.io"
+baseurl: ""            # important for user sites
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-sitemap     # auto-creates /sitemap.xml
 
-google_site_verification: "6goKPQ4ohFxSj9pT64552BAljmxCMnJrpkkKgMDWXeQ"
 
 
 # Basic Site Settings
