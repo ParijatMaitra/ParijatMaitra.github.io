@@ -26,9 +26,9 @@ We examine the impact of early elective birth timing on children’s health and 
 -  **European Society for Population Economics (ESPE 2023, Belgrade)**
 -  **Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)**
 -  **2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)**
-
-### Upcoming
 - **Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm)**
+- 
+### Upcoming
 - **Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona)**
 
 ---
