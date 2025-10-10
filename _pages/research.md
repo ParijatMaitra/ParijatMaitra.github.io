@@ -29,7 +29,7 @@ We examine the impact of early elective birth timing on children’s health and 
 - **Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm)**
   
 ### Upcoming
-- **The Association of Swedish Development Economists: Conference on Development Economics (ASWEDE 2025, Gothenburg)**
+- **Association of Swedish Development Economists: Conference on Development Economics (ASWEDE 2025, Gothenburg)**
 - **Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona)**
 
 ---
