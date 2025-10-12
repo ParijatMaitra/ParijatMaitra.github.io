@@ -3,6 +3,9 @@ layout: archive
 title: "CV"
 permalink: /cv-json/
 author_profile: false
+sitemap: false
+noindex: true
+published: false
 redirect_from:
   - /resume-json
 ---
