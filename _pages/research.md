@@ -21,16 +21,16 @@ We examine the impact of early elective birth timing on children’s health and 
 ## Conferences
 
 ### Presented
--  **Simposio de la Asociación Española de Economía (SAEe 2022, Valencia)**
--  **Catalan Economic Society Conference (CESC 2023, Barcelona)**
--  **European Society for Population Economics (ESPE 2023, Belgrade)**
--  **Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)**
--  **2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)**
-- **Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm)**
+-  Simposio de la Asociación Española de Economía (SAEe 2022, Valencia)
+-  Catalan Economic Society Conference (CESC 2023, Barcelona)
+-  European Society for Population Economics (ESPE 2023, Belgrade)
+-  Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)
+-  2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)
+- Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm)
   
 ### Upcoming
-- **Association of Swedish Development Economists: Conference on Development Economics (ASWEDE 2025, Gothenburg)**
-- **Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona)**
+- Association of Swedish Development Economists: Conference on Development Economics (ASWEDE 2025, Gothenburg)
+- Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona)
 
 ---
 
