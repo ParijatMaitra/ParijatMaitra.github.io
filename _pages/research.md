@@ -9,7 +9,7 @@ author_profile: true
 
 ### Born Too Soon? The Educational Costs of Early Elective Deliveries  
 **Authors:** Parijat Maitra, [Libertad González](https://libertadgonzalez.com/)  
-**Status:** Working Paper “[Born Too Soon? The Educational Costs of Early Elective Deliveries](https://bse.eu/research/working-papers/born-too-soon-the-educational-costs-of-early-elective-deliveries)”
+**Status:** [Working Paper](https://bse.eu/research/working-papers/born-too-soon-the-educational-costs-of-early-elective-deliveries)
 
 **Abstract**  
 <div style="text-align: justify;">
