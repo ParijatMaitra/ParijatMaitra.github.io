@@ -13,7 +13,8 @@ author_profile: true
 
 **Abstract**  
 <div style="text-align: justify;">
-We examine the impact of early elective birth timing on children’s health and educational outcomes, focusing on cognitive development as measured by elementary school grades. We exploit a natural experiment in Spain: the abrupt termination of a generous child benefit at the end of 2010, which led to a sharp increase in elective deliveries during the final week of December. Children born during this spike had slightly shorter gestation periods and lower birth weights (within the normal range), and experienced a higher incidence of respiratory disorders during infancy. We find that the affected cohort of children had significantly lower academic performance at age seven (in second grade), suggesting large persistent effects on cognitive development. Our results provide causal evidence on the medium-term costs of early elective deliveries, and underscore the link between neonatal health and human capital.
+We examine the impact of policy-induced changes in birth timing on children’s health and educational outcomes. We exploit a natural experiment in Spain: the abrupt
+termination of a generous child benefit at the end of 2010, which led to a sharp increase in elective deliveries during the final week of December. Children born during this spike had shorter gestation periods and lower birth-weight (within the normal range), and experienced a higher incidence of respiratory disorders during infancy. We find that the affected cohort of children had significantly lower school performance at age seven, suggesting large persistent effects on cognitive development.
 </div>
 
 ---
