@@ -9,7 +9,7 @@ author_profile: true
 
 ### Born Too Soon? Policy-Induced Birth Timing and Child Development  
 **Authors:** Parijat Maitra, [Libertad González](https://libertadgonzalez.com/)  
-**Status:** [Working Paper](https://bse.eu/research/working-papers/born-too-soon-the-educational-costs-of-early-elective-deliveries) (ciculated as "Born Too Soon? The Educational Costs of Early Elective Deliveries")
+**Status:** [Working Paper](https://bse.eu/research/working-papers/born-too-soon-the-educational-costs-of-early-elective-deliveries) (circulated as "Born Too Soon? The Educational Costs of Early Elective Deliveries")
 
 **Abstract**  
 <div style="text-align: justify;">
