@@ -32,7 +32,7 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
 -  Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona)
   
 ### Upcoming
-- Workshop IdEP in Sustainable Economics (WISE 2026, Airolo)
+-  Workshop IdEP in Sustainable Economics (WISE 2026, Airolo)
 ---
 
 ## Publications prior to graduate school
