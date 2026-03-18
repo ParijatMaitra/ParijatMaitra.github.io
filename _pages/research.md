@@ -33,6 +33,7 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
   
 ### Upcoming
 -  Workshop IdEP in Sustainable Economics (WISE 2026, Airolo)
+-  European Association for Labour Economists (EALE 2026, Barcelona)
   
 ---
 
