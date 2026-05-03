@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m a second-year PhD student in Economics at Stockholm University, working at the intersection of Labour and Development Economics.  
+I'm a second-year PhD student in Economics at Stockholm University. My research lies at the intersection of Labour, Development, and Spatial Economics, with a focus on climate change adaptation and resilience, health, human capital, and gender-based violence. 
 
 Previously: Barcelona School of Economics (MS in Economics) and Paris School of Economics (*Master Analyse et Politiques Économiques*).  
 
