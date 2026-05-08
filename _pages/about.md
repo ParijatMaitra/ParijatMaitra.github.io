@@ -17,7 +17,6 @@ Feel free to reach out at [parijat.maitra@su.se](mailto:parijat.maitra@su.se).
 
 ## Upcoming Presentations
 
-- Workshop IdEP in Sustainable Economics (WISE 2026, Airolo)
 - European Association for Labour Economists (EALE 2026, Barcelona)
 
 
