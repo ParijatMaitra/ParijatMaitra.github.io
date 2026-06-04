@@ -17,7 +17,6 @@ Feel free to reach out at [parijat.maitra@su.se](mailto:parijat.maitra@su.se).
 
 ## Upcoming Presentations
 
-- 5th Stockholm Workshop on Diversity and Workplace Inclusion: Future topics in gender and diversity research (Stockholm)
 - European Association for Labour Economists (EALE 2026, Barcelona)
 
 
