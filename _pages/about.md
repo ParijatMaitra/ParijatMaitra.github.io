@@ -18,7 +18,5 @@ Feel free to reach out at [parijat.maitra@su.se](mailto:parijat.maitra@su.se).
 ## Upcoming Presentations
 
 - European Association for Labour Economists (EALE 2026, Barcelona)
-- Swedish Conference in Economics (Jönköping)
-
-
+- Swedish Conference in Economics (Jönköping) 
 
