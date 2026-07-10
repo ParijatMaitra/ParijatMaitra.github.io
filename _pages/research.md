@@ -26,8 +26,7 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
 - 2025: *Simposio de la Asociación Española de Economía* (SAEe), Barcelona; *Association of Swedish Development Economists: Conference on Development Economics* (ASWEDE), Gothenburg; *Stockholm-Uppsala Doctoral Student Workshop in Economics* (SUDSWEC), Stockholm; *2nd HEFUU Workshop in Causal Health Economics*, Uppsala
 - 2024: *Stockholm-Uppsala Doctoral Student Workshop in Economics* (SUDSWEC), Stockholm
 - 2023: *Catalan Economic Society Conference* (CESC), Barcelona; *European Society for Population Economics* (ESPE), Belgrade.
-- 2022: *Simposio de la Asociación Española de Economía* (SAEe), Valencia
-  
+- 2022: *Simposio de la Asociación Española de Economía* (SAEe), Valencia  
 ---
 
 ## Publications prior to graduate school
