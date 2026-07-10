@@ -22,16 +22,11 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
 ## Conferences and Workshops
 
 ### Presented
--  Simposio de la Asociación Española de Economía (SAEe 2022, Valencia)
--  Catalan Economic Society Conference (CESC 2023, Barcelona)
--  European Society for Population Economics (ESPE 2023, Belgrade)
--  Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)
--  2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)
--  Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm)
--  Association of Swedish Development Economists: Conference on Development Economics (ASWEDE 2025, Gothenburg)
--  Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona)
--  Workshop IdEP in Sustainable Economics (WISE 2026, Airolo)
--  5th Stockholm Workshop on Diversity and Workplace Inclusion 2026: Future topics in Gender and Diversity Research (Stockholm)
+- 2026: *5th Stockholm Workshop on Diversity and Workplace Inclusion*, Stockholm; *Workshop IdEP in Sustainable Economics* (WISE), Airolo
+- 2025: *Simposio de la Asociación Española de Economía* (SAEe), Barcelona; *Association of Swedish Development Economists: Conference on Development Economics* (ASWEDE), Gothenburg; *Stockholm-Uppsala Doctoral Student Workshop in Economics* (SUDSWEC), Stockholm; *2nd HEFUU Workshop in Causal Health Economics*, Uppsala
+- 2024: *Stockholm-Uppsala Doctoral Student Workshop in Economics* (SUDSWEC), Stockholm
+- 2023: *Catalan Economic Society Conference* (CESC), Barcelona; *European Society for Population Economics* (ESPE), Belgrade.
+- 2022: *Simposio de la Asociación Española de Economía* (SAEe), Valencia
   
 ---
 
