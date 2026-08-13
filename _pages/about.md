@@ -11,7 +11,7 @@ I am supervised by [Jakob Svensson](https://www.jakobsvensson.com/)  (main super
 
 Previously: Barcelona School of Economics (MS in Economics) and Paris School of Economics (*Master Analyse et Politiques Économiques*).  
 
-Feel free to reach out at [parijat.maitra@su.se](mailto:parijat.maitra@su.se).
+Feel free to reach out at [parijat.maitra@iies.su.se](mailto:parijat.maitra@iies.su.se).
 
 ## News
 
