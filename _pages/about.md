@@ -19,6 +19,6 @@ Feel free to reach out at [parijat.maitra@iies.su.se](mailto:parijat.maitra@iies
 
 ## Upcoming Presentations
 
-- European Association for Labour Economists (EALE 2026, Barcelona)
+- Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC, Uppsala)
 - Swedish Conference in Economics (Jönköping) 
 
