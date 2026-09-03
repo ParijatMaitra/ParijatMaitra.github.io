@@ -23,7 +23,7 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
 ## Conferences and Workshops
 
 ### Presented
-- 2026: *5th Stockholm Workshop on Diversity and Workplace Inclusion*, Stockholm; *Workshop IdEP in Sustainable Economics* (WISE), Airolo; *European Association for Labour Economists* (EALE), Barcelona
+- 2026: *European Association for Labour Economists* (EALE), Barcelona; *5th Stockholm Workshop on Diversity and Workplace Inclusion*, Stockholm; *Workshop IdEP in Sustainable Economics* (WISE), Airolo
 - 2025: *Simposio de la Asociación Española de Economía* (SAEe), Barcelona; *Association of Swedish Development Economists: Conference on Development Economics* (ASWEDE), Gothenburg; *Stockholm-Uppsala Doctoral Student Workshop in Economics* (SUDSWEC), Stockholm; *2nd HEFUU Workshop in Causal Health Economics*, Uppsala
 - 2024: *Stockholm-Uppsala Doctoral Student Workshop in Economics* (SUDSWEC), Stockholm
 - 2023: *Catalan Economic Society Conference* (CESC), Barcelona; *European Society for Population Economics* (ESPE), Belgrade
