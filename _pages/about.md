@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a third-year PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. My research is situated at the intersection of development, labour, and political economy with a particular focus on *climate change adaptation and resilience*, *health*, *human capital*, and *gender-based violence*. I currently work on research projects in Spain, Chile, Sweden, and Norway.
+I am a third-year PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. My research is situated at the intersection of development, labour, and political economy with a particular focus on *climate change adaptation and resilience*, *health*, *human capital*, and *gender-based violence*. I currently work on research projects in Spain, Chile, Sweden, and Ethiopia.
 
 I am supervised by [Jakob Svensson](https://www.jakobsvensson.com/)  (main supervisor), [Tessa Bold](https://www.tessabold.com/) (co-supervisor; development), and [Jósef Sigurdsson](https://www.josefsigurdsson.com/) (co-supervisor; labour).
 
@@ -19,5 +19,6 @@ Feel free to reach out at [parijat.maitra@iies.su.se](mailto:parijat.maitra@iies
 
 ## Upcoming Presentations
  
+- Association of Swedish Development Economists: Conference on Development Economics (ASWEDE), Marholmen
 - Swedish Conference in Economics (Jönköping) 
 
