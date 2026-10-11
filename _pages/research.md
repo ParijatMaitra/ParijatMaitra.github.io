@@ -22,7 +22,7 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
 ## Work in Progress
 
 - Climate Resilience of the Welfare State: State Capacity and Public Service Delivery (with José Benito Ruiz Hartmann)
-- Enforcing Care: Child Support and State Capacity ([Leopoldo Lazcano](https://sites.google.com/view/leopoldolazcano/) )
+- Enforcing Care: Child Support and State Capacity (with [Leopoldo Lazcano](https://sites.google.com/view/leopoldolazcano/) )
 
 ---
 
