@@ -21,8 +21,8 @@ termination of a generous child benefit at the end of 2010, which led to a sharp
 ---
 ## Work in Progress
 
-- Climate Resilience of the Welfare State: State Capacity and Public Service Delivery (with José Benito Ruiz Hartmann)
-- Enforcing Care: Child Support and State Capacity (with [Leopoldo Lazcano](https://sites.google.com/view/leopoldolazcano/))<br>
+- **Climate Resilience of the Welfare State: State Capacity and Public Service Delivery** (with José Benito Ruiz Hartmann)
+- **Enforcing Care: Child Support and State Capacity** (with [Leopoldo Lazcano](https://sites.google.com/view/leopoldolazcano/))<br>
   <span style="color: #777; font-weight: normal;">Partner: Ministerio de la Mujer y la Equidad de Género de Chile</span>
   
 ---
