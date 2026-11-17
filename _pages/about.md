@@ -19,6 +19,5 @@ Feel free to reach out at [parijat.maitra@iies.su.se](mailto:parijat.maitra@iies
 
 ## Upcoming Presentations
  
-- Association of Swedish Development Economists: Conference on Development Economics (ASWEDE), Marholmen
 - Swedish Conference in Economics (Jönköping) 
 
