@@ -17,7 +17,7 @@ Feel free to reach out at [parijat.maitra@iies.su.se](mailto:parijat.maitra@iies
 
 - New Working Paper "[Born Too Soon? The Educational Costs of Early Elective Deliveries](https://bse.eu/research/working-papers/born-too-soon-the-educational-costs-of-early-elective-deliveries)" (with Libertad González) is out (December, 2025).
 
-## Upcoming Presentations
+
 
 
  
