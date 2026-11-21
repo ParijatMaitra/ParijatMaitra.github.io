@@ -19,5 +19,4 @@ Feel free to reach out at [parijat.maitra@iies.su.se](mailto:parijat.maitra@iies
 
 ## Upcoming Presentations
  
-- Swedish Conference in Economics (Jönköping) 
 
