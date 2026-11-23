@@ -1,0 +1,74 @@
+name: Publish Home and Research
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+
+      # Build a fresh source folder so only the two chosen pages reach Jekyll.
+      - name: Select pages and theme files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p pages-source/_pages pages-source/images
+          cp -R _config.yml _data _includes _layouts _sass assets pages-source/
+          cp _pages/{about,research}.md pages-source/_pages/
+          cp robots.txt sitemap.xml sitemap.txt googled2d06b4f022da634.html pages-source/
+          cp images/IMG_7062_1.jpg images/favicon* images/apple-touch-icon-180x180.png images/manifest.json pages-source/images/
+
+      - name: Build the site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./pages-source
+          destination: ./_site
+
+      # Publish a plain 404. The theme's error page would otherwise load Umami.
+      - name: Add the error page and check the result
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd _site
+          printf '%s\n' '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Page not found</title><h1>Page not found</h1><p><a href="/">Home</a> · <a href="/research/">Research</a></p></html>' > 404.html
+          test -s assets/css/main.css
+          test -s images/IMG_7062_1.jpg
+          for page in index.html research/index.html; do
+            grep -q 'cloud.umami.is/script.js' "$page"
+          done
+          # Treat any extra HTML page as a build error before deploying.
+          diff -u <(printf '%s\n' 404.html googled2d06b4f022da634.html index.html research/index.html | sort) \
+                  <(find . -type f -iname '*.html' -printf '%P\n' | sort)
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
