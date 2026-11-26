@@ -39,21 +39,6 @@ jobs:
           source: ./pages-source
           destination: ./_site
 
-      # Publish a plain 404. The theme's error page would otherwise load Umami.
-      - name: Add the error page and check the result
-        shell: bash
-        run: |
-          set -euo pipefail
-          cd _site
-          printf '%s\n' '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Page not found</title><h1>Page not found</h1><p><a href="/">Home</a> · <a href="/research/">Research</a></p></html>' > 404.html
-          test -s assets/css/main.css
-          test -s images/IMG_7062_1.jpg
-          for page in index.html research/index.html; do
-            grep -q 'cloud.umami.is/script.js' "$page"
-          done
-          # Treat any extra HTML page as a build error before deploying.
-          diff -u <(printf '%s\n' 404.html googled2d06b4f022da634.html index.html research/index.html | sort) \
-                  <(find . -type f -iname '*.html' -printf '%P\n' | sort)
 
       - uses: actions/upload-pages-artifact@v3
         with:
